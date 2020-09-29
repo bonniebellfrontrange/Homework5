@@ -12,11 +12,6 @@
 
 using namespace std;
 
-bool inDeckAlready(int newValue, int numberOfEntries, int deck[]) {
-	return false;
-}
-void printDeck(int deck[]) {
-}
 int main() {
-	srand (time(NULL));
+	//insert any test code for Rational class
 }
